@@ -12,7 +12,7 @@ These MindMap nodes differ from existing ones in that they expand their capabili
 ## Example notes
 
 ![Example note 01](./examples/1-bjornulf-note.png) 
-
+<img src="./examples/1-bjornulf-note.png" width="350" alt="bjornulf-note">
 ## Nodes
 
 - The **MindMap Note Node** has two separate fields: one for the title and one for the description.
