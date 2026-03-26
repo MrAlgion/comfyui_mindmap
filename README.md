@@ -22,12 +22,17 @@ These MindMap nodes differ from existing ones in that they expand their capabili
 
 - **MindMap Link Node Advanced** is an expanded version of the previous node with a description and a copy link button.
 <img src="./examples/2-default-nodes.png" width="600" alt="default nodes">
+
+Colored node view
 <img src="./examples/3-color-nodes.png" width="900" alt="color nodes">
-<img src="./examples/4-preview-modal.png" width="350" alt="preview modal">
 
 The key feature is a modal window with an image and description. The modal window scales synchronously with other nodes. For more information, use the mouse wheel.
+<img src="./examples/4-preview-modal.png" width="350" alt="preview modal">
+
+## Mind map examples
 
 <img src="./examples/5-mindmap-myaiforce-part.png" width="350" alt="preview modal">
+### This map inspired the creation of the MindMap node (Credits)
 <img src="./examples/6-mindmap-part1.png" width="700" alt="preview modal">
 <img src="./examples/7-mindmap-part2.png" width="900" alt="preview modal">
 
