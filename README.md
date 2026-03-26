@@ -41,7 +41,7 @@ The key feature is a modal window with an image and description.
 
 <img src="./examples/5-mindmap-myaiforce-part.png" width="700" alt="preview modal">
 
-### This map inspired the creation of the MindMap node (Credits)
+### This map inspired the creation of the MindMap node [Credits](#credits).
 
 <img src="./examples/6-mindmap-part1.png" width="700" alt="preview modal">
 <img src="./examples/7-mindmap-part2.png" width="900" alt="preview modal">
