@@ -22,9 +22,11 @@ These MindMap nodes differ from existing ones in that they expand their capabili
 - **MindMap Link Node Lite** is an extended version of the previous node with two buttons - for following a link and previewing in a modal window.
 
 - **MindMap Link Node Advanced** is an expanded version of the previous node with a description and a copy link button.
+
 <img src="./examples/2-default-nodes.png" width="600" alt="default nodes">
 
 Colored node view
+
 <img src="./examples/3-color-nodes.png" width="900" alt="color nodes">
 
 The key feature is a modal window with an image and description. 
@@ -32,7 +34,7 @@ The key feature is a modal window with an image and description.
 <p align="left">
   <img src="./examples/4-preview-modal.png" width="350" alt="preview modal">
   <br>
-  <em>The modal window scales synchronously with other nodes. For more information, use the mouse wheel.</em>
+  <em>The modal window scales synchronously with other nodes. For upscale, use the mouse wheel.</em>
 </p>
 
 ## Mind map examples
