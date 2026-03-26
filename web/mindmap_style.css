@@ -1,0 +1,101 @@
+.mindmap-preview{
+position:fixed;
+width:260px !important;
+background:#1e1e1e;
+border:1px solid #555;
+border-radius:6px;
+padding:8px;
+color:#ddd;
+font-size:12px;
+z-index:999999;
+box-shadow:0 4px 12px rgba(0,0,0,0.4);
+}
+
+.mindmap-preview img{
+width:100%;
+max-height:140px;
+width: 242px;
+height: 130px;
+object-fit:cover;
+border-radius:4px;
+margin-bottom:6px;
+}
+
+.mindmap-title{
+font-weight:bold;
+margin-bottom:4px;
+word-wrap:break-word;
+overflow-wrap:break-word;
+}
+
+.mindmap-desc{
+opacity:0.85;
+margin-bottom:4px;
+word-wrap:break-word;
+overflow-wrap:break-word;
+}
+
+.mindmap-date{
+font-size:10px;
+opacity:0.6;
+}
+
+/* NODE BUTTONS */
+
+.mindmap-node-buttons{
+display:flex;
+gap:6px;
+width:100%;
+margin-top:6px;
+}
+
+.mindmap-node-button{
+flex:1;
+padding:4px 6px;
+border:1px solid #666;
+background:#2a2a2a;
+color:#ddd;
+border-radius:4px;
+cursor:pointer;
+font-size:11px;
+text-align:center;
+}
+
+.mindmap-node-button:hover{
+background:#3a3a3a;
+}
+
+.mindmap-toolbar{
+display:grid;
+gap:4px;
+width:100%;
+}
+
+.mindmap-toolbar button{
+height:20px;
+padding:0 6px;
+font-size:11px;
+white-space:nowrap;
+cursor:pointer;
+/*background:#111;*/
+border:1px solid #555;
+}
+
+/* Lite node */
+
+.mindmap-toolbar-lite{
+position:absolute;
+top:-3px;
+}
+
+/* Advanced node */
+
+.mindmap-toolbar-advanced{
+margin-top:-10px;
+}
+
+.comfyui-button {
+justify-content: center;
+/*background:#444;*/
+border:1px solid #555;
+}
