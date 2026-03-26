@@ -22,8 +22,8 @@ These MindMap nodes differ from existing ones in that they expand their capabili
 - **MindMap Link Node Lite** is an extended version of the previous node with two buttons - for following a link and previewing in a modal window.
 
 - **MindMap Link Node Advanced** is an expanded version of the previous node with a description and a copy link button.
-<img src="./examples/2-default-nodes.png" width="400" alt="default nodes">
-![Example nodes 02](./examples/2-default-nodes.png)
+<img src="./examples/2-default-nodes.png" width="600" alt="default nodes">
+
 ![Example color nodes 03](./examples/3-color-nodes.png)
 ![Example preview modal 04](./examples/4-preview-modal.png)
 
