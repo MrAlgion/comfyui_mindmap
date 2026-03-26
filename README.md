@@ -27,7 +27,7 @@ These MindMap nodes differ from existing ones in that they expand their capabili
 ![Example color nodes 03](./examples/3-color-nodes.png)
 ![Example preview modal 04](./examples/4-preview-modal.png)
 
-The key feature is a modal window with an image and description.
+The key feature is a modal window with an image and description. The modal window scales synchronously with other nodes. For more information, use the mouse wheel.
 
 ![Example mindmap myaiforce 05](./examples/5-mindmap-myaiforce-part.png)
 ![Example mindmap part1 06](./examples/6-mindmap-part1.png)
