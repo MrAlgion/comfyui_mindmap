@@ -43,6 +43,7 @@ The key feature is a modal window with an image and description.
 
 ### This white map inspired the creation of the MindMap node [Credits](#credits).
 
+Below is an example of a mind map built on its basis (with links).
 
 <img src="./examples/6-mindmap-part1.png" width="700" alt="preview modal">
 <img src="./examples/7-mindmap-part2.png" width="900" alt="preview modal">
