@@ -28,7 +28,8 @@ Colored node view
 <img src="./examples/3-color-nodes.png" width="900" alt="color nodes">
 
 The key feature is a modal window with an image and description. 
-<p align="center">
+
+<p align="left">
   <img src="./examples/4-preview-modal.png" width="350" alt="preview modal">
   <br>
   <em>The modal window scales synchronously with other nodes. For more information, use the mouse wheel.</em>
