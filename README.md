@@ -27,9 +27,11 @@ Colored node view
 <img src="./examples/3-color-nodes.png" width="900" alt="color nodes">
 
 The key feature is a modal window with an image and description. 
-<img src="./examples/4-preview-modal.png" width="350" alt="preview modal">
-The modal window scales synchronously with other nodes. For more information, use the mouse wheel.
-
+<p align="center">
+  <img src="./examples/4-preview-modal.png" width="350" alt="preview modal">
+  <br>
+  <em>The modal window scales synchronously with other nodes. For more information, use the mouse wheel.</em>
+</p>
 ## Mind map examples
 
 <img src="./examples/5-mindmap-myaiforce-part.png" width="700" alt="preview modal">
