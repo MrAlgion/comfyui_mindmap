@@ -38,10 +38,8 @@ The key feature is a modal window with an image and description.
 </p>
 
 ## Mind map examples
-
-<img src="./examples/5-mindmap-myaiforce-part.png" width="700" alt="preview modal">
-
 ### This white map inspired the creation of the MindMap node [Credits](#credits).
+<img src="./examples/5-mindmap-myaiforce-part.png" width="700" alt="preview modal">
 
 Below is an example of a mind map built on its basis (with links).
 
