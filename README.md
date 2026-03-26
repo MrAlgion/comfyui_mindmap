@@ -12,6 +12,7 @@ These MindMap nodes differ from existing ones in that they expand their capabili
 ## Example notes
 
 <img src="./examples/1-bjornulf-note.png" width="350" alt="bjornulf-note">
+
 ## Nodes
 
 - The **MindMap Note Node** has two separate fields: one for the title and one for the description.
@@ -32,6 +33,7 @@ The key feature is a modal window with an image and description.
   <br>
   <em>The modal window scales synchronously with other nodes. For more information, use the mouse wheel.</em>
 </p>
+
 ## Mind map examples
 
 <img src="./examples/5-mindmap-myaiforce-part.png" width="700" alt="preview modal">
