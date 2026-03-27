@@ -27,12 +27,14 @@ These MindMap nodes differ from existing ones in that they expand their capabili
 
 Colored node view
 
-<img src="./examples/3-color-nodes.png" width="900" alt="color nodes">
+<img src="./examples/3-color-nodes.png" width="700" alt="color nodes">
 
 The key feature is a modal window with an image and description. 
 
 <p align="left">
-  <img src="./examples/4-preview-modal.png" width="350" alt="preview modal">
+  <img src="./examples/4-1-preview-modal.png" width="350" alt="preview modal">&nbsp;
+  <img src="./examples/4-2-preview-modal.png" width="350" alt="preview modal">&nbsp;
+  <img src="./examples/4-3-preview-modal.png" width="350" alt="preview modal">
   <br>
   <em>The modal window scales synchronously with other nodes. For upscale, use the mouse wheel.</em>
 </p>
