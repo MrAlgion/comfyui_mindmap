@@ -112,11 +112,16 @@ The node will appear in the `MindMap` category. Search node by key MindMap.
 ### Dependencies
 - beautifulsoup4
 - requests
+  
+## Custom Setting up
+
+If you find the default design of buttons and blocks insufficient, you can change it in the web/mindmap_style.css file.
 
 ## Known issues
 
-Overlapping nodes with buttons is accompanied by layered margins for the overlapping blocks.
-Some websites may not display images or text in the preview due to requests being blocked by the proxy server parser.
+Overlapping nodes with buttons is accompanied by layered margins for the overlapping blocks.<br>
+Some websites may not display images or text in the preview due to requests being blocked by the proxy server parser.<br>
+Workflow opens with the block with the largest index centered in the center of the screen. This is a feature rather than a issue.
 
 ## License
 
