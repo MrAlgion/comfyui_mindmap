@@ -12,7 +12,7 @@ const link = document.createElement("link");
 
 link.id = "mindmap-css";
 link.rel = "stylesheet";
-link.href = "/extensions/comfyui_mindmap/mindmap_style.css?v=2.9.3";
+link.href = "/extensions/comfyui_mindmap/mindmap_style.css";
 
 document.head.appendChild(link);
 
