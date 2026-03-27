@@ -63,7 +63,7 @@ Example workflows included in the 'workflows' directory.
 1. Clone this repository to your ComfyUI custom nodes directory:
 ```bash
 cd ComfyUI/custom_nodes/
-git clone https://github.com/moonwhaler/comfyui-seedvr2-tilingupscaler.git
+git clone https://github.com/MrAlgion/comfyui_mindmap.git
 ```
 
 2. Install dependencies (outside of ComfyUI):
@@ -78,7 +78,7 @@ source /path/to/your/comfyui/venv/bin/activate  # Linux/Mac
 /path/to/your/comfyui/venv/Scripts/activate  # Windows
 
 # Then install requirements
-cd UltimateResupscaler
+cd comfyui_mindmap
 pip install -r requirements.txt
 ```
 
@@ -88,14 +88,14 @@ pip install -r requirements.txt
 conda activate your-comfyui-environment
 
 # Then install requirements
-cd UltimateResupscaler
+cd comfyui_mindmap
 pip install -r requirements.txt
 ```
 
 **For portable ComfyUI installations:**
 ```bash
 # Use the Python executable from your ComfyUI installation
-cd UltimateResupscaler
+cd comfyui_mindmap
 /path/to/ComfyUI/python_embeded/python.exe -m pip install -r requirements.txt  # Windows
 # OR
 /path/to/ComfyUI/python/bin/python -m pip install -r requirements.txt  # Linux/Mac
